@@ -1,0 +1,8 @@
+Link para download do dataset novas_transacoes_comerciantes.csv
+
+https://drive.google.com/open?id=1KGUzkOW8Dhol9XhlzV4-BQ4BLUfGayuJ
+
+
+Link para download do dataset transacoes_historicas.csv
+
+https://drive.google.com/open?id=1Zv1lHLSrkb6SgQ91IIOKgRH9NqH7gV3k
