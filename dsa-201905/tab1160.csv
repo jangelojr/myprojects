@@ -1,0 +1,2080 @@
+,Ano,Unidade da Federação,Tipo de esgotamento sanitário,% moradores em domicílios particulares permanentes
+0,2004.0,Rondônia,Rede coletora,3.4
+1,,,Fossa séptica,39.7
+2,,,Fossa rudimentar,51.5
+3,,,Vala,1.7
+4,,,"Direto para rio, lago ou mar",1.0
+5,,,Outro tipo,0.0
+6,,,Não tinham,2.6
+7,,Acre,Rede coletora,23.8
+8,,,Fossa séptica,29.8
+9,,,Fossa rudimentar,19.9
+10,,,Vala,14.6
+11,,,"Direto para rio, lago ou mar",4.7
+12,,,Outro tipo,0.0
+13,,,Não tinham,7.2
+14,,Amazonas,Rede coletora,5.0
+15,,,Fossa séptica,60.2
+16,,,Fossa rudimentar,22.7
+17,,,Vala,3.9
+18,,,"Direto para rio, lago ou mar",3.0
+19,,,Outro tipo,0.2
+20,,,Não tinham,5.0
+21,,Roraima,Rede coletora,5.1
+22,,,Fossa séptica,84.8
+23,,,Fossa rudimentar,8.0
+24,,,Vala,0.0
+25,,,"Direto para rio, lago ou mar",0.1
+26,,,Outro tipo,0.0
+27,,,Não tinham,2.0
+28,,Pará,Rede coletora,3.4
+29,,,Fossa séptica,63.4
+30,,,Fossa rudimentar,26.4
+31,,,Vala,1.6
+32,,,"Direto para rio, lago ou mar",0.8
+33,,,Outro tipo,0.0
+34,,,Não tinham,4.3
+35,,Amapá,Rede coletora,4.5
+36,,,Fossa séptica,13.3
+37,,,Fossa rudimentar,60.6
+38,,,Vala,7.6
+39,,,"Direto para rio, lago ou mar",11.7
+40,,,Outro tipo,0.0
+41,,,Não tinham,2.2
+42,,Tocantins,Rede coletora,4.7
+43,,,Fossa séptica,32.8
+44,,,Fossa rudimentar,57.3
+45,,,Vala,0.0
+46,,,"Direto para rio, lago ou mar",0.0
+47,,,Outro tipo,0.0
+48,,,Não tinham,5.1
+49,,Maranhão,Rede coletora,15.4
+50,,,Fossa séptica,46.3
+51,,,Fossa rudimentar,19.6
+52,,,Vala,1.7
+53,,,"Direto para rio, lago ou mar",1.8
+54,,,Outro tipo,0.2
+55,,,Não tinham,14.9
+56,,Piauí,Rede coletora,5.3
+57,,,Fossa séptica,68.3
+58,,,Fossa rudimentar,13.9
+59,,,Vala,0.0
+60,,,"Direto para rio, lago ou mar",0.3
+61,,,Outro tipo,0.3
+62,,,Não tinham,11.9
+63,,Ceará,Rede coletora,30.5
+64,,,Fossa séptica,16.5
+65,,,Fossa rudimentar,45.1
+66,,,Vala,0.3
+67,,,"Direto para rio, lago ou mar",1.4
+68,,,Outro tipo,0.0
+69,,,Não tinham,6.2
+70,,Rio Grande do Norte,Rede coletora,17.7
+71,,,Fossa séptica,43.3
+72,,,Fossa rudimentar,35.5
+73,,,Vala,0.8
+74,,,"Direto para rio, lago ou mar",0.6
+75,,,Outro tipo,0.0
+76,,,Não tinham,2.1
+77,,Paraíba,Rede coletora,37.6
+78,,,Fossa séptica,28.2
+79,,,Fossa rudimentar,26.9
+80,,,Vala,2.2
+81,,,"Direto para rio, lago ou mar",1.6
+82,,,Outro tipo,0.3
+83,,,Não tinham,3.2
+84,,Pernambuco,Rede coletora,43.3
+85,,,Fossa séptica,4.1
+86,,,Fossa rudimentar,41.6
+87,,,Vala,2.7
+88,,,"Direto para rio, lago ou mar",4.7
+89,,,Outro tipo,0.5
+90,,,Não tinham,3.1
+91,,Alagoas,Rede coletora,6.8
+92,,,Fossa séptica,10.8
+93,,,Fossa rudimentar,74.0
+94,,,Vala,3.2
+95,,,"Direto para rio, lago ou mar",1.4
+96,,,Outro tipo,0.3
+97,,,Não tinham,3.6
+98,,Sergipe,Rede coletora,58.5
+99,,,Fossa séptica,27.2
+100,,,Fossa rudimentar,11.1
+101,,,Vala,1.1
+102,,,"Direto para rio, lago ou mar",0.3
+103,,,Outro tipo,0.0
+104,,,Não tinham,1.9
+105,,Bahia,Rede coletora,54.5
+106,,,Fossa séptica,11.2
+107,,,Fossa rudimentar,24.9
+108,,,Vala,1.8
+109,,,"Direto para rio, lago ou mar",2.4
+110,,,Outro tipo,0.1
+111,,,Não tinham,5.1
+112,,Minas Gerais,Rede coletora,86.1
+113,,,Fossa séptica,1.3
+114,,,Fossa rudimentar,9.6
+115,,,Vala,0.3
+116,,,"Direto para rio, lago ou mar",2.0
+117,,,Outro tipo,0.1
+118,,,Não tinham,0.7
+119,,Espírito Santo,Rede coletora,68.9
+120,,,Fossa séptica,17.7
+121,,,Fossa rudimentar,7.4
+122,,,Vala,2.9
+123,,,"Direto para rio, lago ou mar",2.0
+124,,,Outro tipo,0.0
+125,,,Não tinham,1.0
+126,,Rio de Janeiro,Rede coletora,58.6
+127,,,Fossa séptica,30.6
+128,,,Fossa rudimentar,2.6
+129,,,Vala,4.5
+130,,,"Direto para rio, lago ou mar",2.9
+131,,,Outro tipo,0.4
+132,,,Não tinham,0.4
+133,,São Paulo,Rede coletora,89.6
+134,,,Fossa séptica,3.4
+135,,,Fossa rudimentar,2.5
+136,,,Vala,0.8
+137,,,"Direto para rio, lago ou mar",3.5
+138,,,Outro tipo,0.0
+139,,,Não tinham,0.2
+140,,Paraná,Rede coletora,48.3
+141,,,Fossa séptica,26.1
+142,,,Fossa rudimentar,23.1
+143,,,Vala,0.5
+144,,,"Direto para rio, lago ou mar",1.2
+145,,,Outro tipo,0.0
+146,,,Não tinham,1.0
+147,,Santa Catarina,Rede coletora,18.0
+148,,,Fossa séptica,70.4
+149,,,Fossa rudimentar,7.8
+150,,,Vala,0.5
+151,,,"Direto para rio, lago ou mar",2.7
+152,,,Outro tipo,0.0
+153,,,Não tinham,0.6
+154,,Rio Grande do Sul,Rede coletora,13.1
+155,,,Fossa séptica,75.1
+156,,,Fossa rudimentar,9.4
+157,,,Vala,1.0
+158,,,"Direto para rio, lago ou mar",0.6
+159,,,Outro tipo,0.0
+160,,,Não tinham,0.8
+161,,Mato Grosso do Sul,Rede coletora,9.0
+162,,,Fossa séptica,3.3
+163,,,Fossa rudimentar,86.9
+164,,,Vala,0.2
+165,,,"Direto para rio, lago ou mar",0.1
+166,,,Outro tipo,0.0
+167,,,Não tinham,0.6
+168,,Mato Grosso,Rede coletora,13.9
+169,,,Fossa séptica,33.1
+170,,,Fossa rudimentar,50.1
+171,,,Vala,0.5
+172,,,"Direto para rio, lago ou mar",0.0
+173,,,Outro tipo,0.0
+174,,,Não tinham,2.4
+175,,Goiás,Rede coletora,33.2
+176,,,Fossa séptica,2.0
+177,,,Fossa rudimentar,63.4
+178,,,Vala,0.0
+179,,,"Direto para rio, lago ou mar",0.4
+180,,,Outro tipo,0.1
+181,,,Não tinham,0.9
+182,,Distrito Federal,Rede coletora,86.2
+183,,,Fossa séptica,10.7
+184,,,Fossa rudimentar,2.7
+185,,,Vala,0.1
+186,,,"Direto para rio, lago ou mar",0.0
+187,,,Outro tipo,0.0
+188,,,Não tinham,0.2
+189,2005.0,Rondônia,Rede coletora,2.4
+190,,,Fossa séptica,54.8
+191,,,Fossa rudimentar,39.6
+192,,,Vala,1.1
+193,,,"Direto para rio, lago ou mar",0.4
+194,,,Outro tipo,0.1
+195,,,Não tinham,1.6
+196,,Acre,Rede coletora,23.5
+197,,,Fossa séptica,32.8
+198,,,Fossa rudimentar,22.3
+199,,,Vala,14.2
+200,,,"Direto para rio, lago ou mar",2.9
+201,,,Outro tipo,0.0
+202,,,Não tinham,4.3
+203,,Amazonas,Rede coletora,2.6
+204,,,Fossa séptica,60.4
+205,,,Fossa rudimentar,24.5
+206,,,Vala,1.7
+207,,,"Direto para rio, lago ou mar",8.1
+208,,,Outro tipo,0.0
+209,,,Não tinham,2.9
+210,,Roraima,Rede coletora,11.2
+211,,,Fossa séptica,72.1
+212,,,Fossa rudimentar,13.6
+213,,,Vala,1.2
+214,,,"Direto para rio, lago ou mar",0.3
+215,,,Outro tipo,0.0
+216,,,Não tinham,1.5
+217,,Pará,Rede coletora,4.2
+218,,,Fossa séptica,64.2
+219,,,Fossa rudimentar,23.6
+220,,,Vala,1.4
+221,,,"Direto para rio, lago ou mar",0.8
+222,,,Outro tipo,0.1
+223,,,Não tinham,5.6
+224,,Amapá,Rede coletora,1.0
+225,,,Fossa séptica,59.4
+226,,,Fossa rudimentar,23.0
+227,,,Vala,3.2
+228,,,"Direto para rio, lago ou mar",12.6
+229,,,Outro tipo,0.0
+230,,,Não tinham,0.8
+231,,Tocantins,Rede coletora,7.2
+232,,,Fossa séptica,24.0
+233,,,Fossa rudimentar,63.9
+234,,,Vala,0.8
+235,,,"Direto para rio, lago ou mar",0.4
+236,,,Outro tipo,0.0
+237,,,Não tinham,3.7
+238,,Maranhão,Rede coletora,10.9
+239,,,Fossa séptica,55.0
+240,,,Fossa rudimentar,16.1
+241,,,Vala,2.1
+242,,,"Direto para rio, lago ou mar",0.9
+243,,,Outro tipo,0.2
+244,,,Não tinham,14.7
+245,,Piauí,Rede coletora,5.8
+246,,,Fossa séptica,71.6
+247,,,Fossa rudimentar,12.2
+248,,,Vala,0.3
+249,,,"Direto para rio, lago ou mar",0.0
+250,,,Outro tipo,0.1
+251,,,Não tinham,10.0
+252,,Ceará,Rede coletora,27.2
+253,,,Fossa séptica,23.1
+254,,,Fossa rudimentar,41.7
+255,,,Vala,1.3
+256,,,"Direto para rio, lago ou mar",1.0
+257,,,Outro tipo,0.2
+258,,,Não tinham,5.6
+259,,Rio Grande do Norte,Rede coletora,18.4
+260,,,Fossa séptica,49.3
+261,,,Fossa rudimentar,29.0
+262,,,Vala,0.9
+263,,,"Direto para rio, lago ou mar",0.3
+264,,,Outro tipo,0.1
+265,,,Não tinham,2.0
+266,,Paraíba,Rede coletora,43.6
+267,,,Fossa séptica,19.8
+268,,,Fossa rudimentar,29.1
+269,,,Vala,3.2
+270,,,"Direto para rio, lago ou mar",1.2
+271,,,Outro tipo,0.1
+272,,,Não tinham,3.0
+273,,Pernambuco,Rede coletora,45.2
+274,,,Fossa séptica,4.7
+275,,,Fossa rudimentar,39.7
+276,,,Vala,2.9
+277,,,"Direto para rio, lago ou mar",4.4
+278,,,Outro tipo,0.5
+279,,,Não tinham,2.7
+280,,Alagoas,Rede coletora,10.3
+281,,,Fossa séptica,30.1
+282,,,Fossa rudimentar,51.4
+283,,,Vala,4.1
+284,,,"Direto para rio, lago ou mar",0.9
+285,,,Outro tipo,0.1
+286,,,Não tinham,3.0
+287,,Sergipe,Rede coletora,40.2
+288,,,Fossa séptica,44.4
+289,,,Fossa rudimentar,11.8
+290,,,Vala,1.4
+291,,,"Direto para rio, lago ou mar",0.3
+292,,,Outro tipo,0.1
+293,,,Não tinham,1.8
+294,,Bahia,Rede coletora,54.7
+295,,,Fossa séptica,8.9
+296,,,Fossa rudimentar,28.1
+297,,,Vala,1.9
+298,,,"Direto para rio, lago ou mar",1.8
+299,,,Outro tipo,0.2
+300,,,Não tinham,4.3
+301,,Minas Gerais,Rede coletora,85.0
+302,,,Fossa séptica,0.7
+303,,,Fossa rudimentar,10.3
+304,,,Vala,0.3
+305,,,"Direto para rio, lago ou mar",3.0
+306,,,Outro tipo,0.0
+307,,,Não tinham,0.7
+308,,Espírito Santo,Rede coletora,70.5
+309,,,Fossa séptica,13.4
+310,,,Fossa rudimentar,7.1
+311,,,Vala,4.1
+312,,,"Direto para rio, lago ou mar",4.1
+313,,,Outro tipo,0.1
+314,,,Não tinham,0.8
+315,,Rio de Janeiro,Rede coletora,57.8
+316,,,Fossa séptica,30.8
+317,,,Fossa rudimentar,3.7
+318,,,Vala,3.6
+319,,,"Direto para rio, lago ou mar",3.6
+320,,,Outro tipo,0.3
+321,,,Não tinham,0.2
+322,,São Paulo,Rede coletora,90.2
+323,,,Fossa séptica,4.3
+324,,,Fossa rudimentar,1.6
+325,,,Vala,0.9
+326,,,"Direto para rio, lago ou mar",2.8
+327,,,Outro tipo,0.0
+328,,,Não tinham,0.1
+329,,Paraná,Rede coletora,53.8
+330,,,Fossa séptica,21.0
+331,,,Fossa rudimentar,23.2
+332,,,Vala,0.5
+333,,,"Direto para rio, lago ou mar",0.6
+334,,,Outro tipo,0.1
+335,,,Não tinham,0.7
+336,,Santa Catarina,Rede coletora,18.4
+337,,,Fossa séptica,70.8
+338,,,Fossa rudimentar,7.0
+339,,,Vala,0.9
+340,,,"Direto para rio, lago ou mar",2.3
+341,,,Outro tipo,0.1
+342,,,Não tinham,0.5
+343,,Rio Grande do Sul,Rede coletora,14.1
+344,,,Fossa séptica,71.7
+345,,,Fossa rudimentar,10.3
+346,,,Vala,2.1
+347,,,"Direto para rio, lago ou mar",0.9
+348,,,Outro tipo,0.0
+349,,,Não tinham,0.8
+350,,Mato Grosso do Sul,Rede coletora,11.6
+351,,,Fossa séptica,6.0
+352,,,Fossa rudimentar,81.9
+353,,,Vala,0.1
+354,,,"Direto para rio, lago ou mar",0.2
+355,,,Outro tipo,0.0
+356,,,Não tinham,0.2
+357,,Mato Grosso,Rede coletora,15.8
+358,,,Fossa séptica,41.7
+359,,,Fossa rudimentar,40.0
+360,,,Vala,0.3
+361,,,"Direto para rio, lago ou mar",0.0
+362,,,Outro tipo,0.0
+363,,,Não tinham,2.2
+364,,Goiás,Rede coletora,34.9
+365,,,Fossa séptica,4.5
+366,,,Fossa rudimentar,59.2
+367,,,Vala,0.2
+368,,,"Direto para rio, lago ou mar",0.6
+369,,,Outro tipo,0.0
+370,,,Não tinham,0.6
+371,,Distrito Federal,Rede coletora,85.6
+372,,,Fossa séptica,10.1
+373,,,Fossa rudimentar,4.1
+374,,,Vala,0.0
+375,,,"Direto para rio, lago ou mar",0.0
+376,,,Outro tipo,0.0
+377,,,Não tinham,0.2
+378,2006.0,Rondônia,Rede coletora,3.1
+379,,,Fossa séptica,51.7
+380,,,Fossa rudimentar,42.0
+381,,,Vala,1.5
+382,,,"Direto para rio, lago ou mar",0.7
+383,,,Outro tipo,0.0
+384,,,Não tinham,1.0
+385,,Acre,Rede coletora,28.3
+386,,,Fossa séptica,25.9
+387,,,Fossa rudimentar,17.4
+388,,,Vala,18.6
+389,,,"Direto para rio, lago ou mar",2.2
+390,,,Outro tipo,0.1
+391,,,Não tinham,7.5
+392,,Amazonas,Rede coletora,4.0
+393,,,Fossa séptica,65.6
+394,,,Fossa rudimentar,15.9
+395,,,Vala,1.8
+396,,,"Direto para rio, lago ou mar",9.6
+397,,,Outro tipo,1.6
+398,,,Não tinham,1.6
+399,,Roraima,Rede coletora,17.5
+400,,,Fossa séptica,63.2
+401,,,Fossa rudimentar,15.1
+402,,,Vala,2.1
+403,,,"Direto para rio, lago ou mar",0.0
+404,,,Outro tipo,0.4
+405,,,Não tinham,1.7
+406,,Pará,Rede coletora,4.2
+407,,,Fossa séptica,62.2
+408,,,Fossa rudimentar,21.7
+409,,,Vala,4.9
+410,,,"Direto para rio, lago ou mar",0.8
+411,,,Outro tipo,0.1
+412,,,Não tinham,6.1
+413,,Amapá,Rede coletora,1.4
+414,,,Fossa séptica,28.6
+415,,,Fossa rudimentar,59.4
+416,,,Vala,0.6
+417,,,"Direto para rio, lago ou mar",9.5
+418,,,Outro tipo,0.0
+419,,,Não tinham,0.6
+420,,Tocantins,Rede coletora,12.4
+421,,,Fossa séptica,15.4
+422,,,Fossa rudimentar,67.7
+423,,,Vala,0.9
+424,,,"Direto para rio, lago ou mar",0.1
+425,,,Outro tipo,0.1
+426,,,Não tinham,3.5
+427,,Maranhão,Rede coletora,13.1
+428,,,Fossa séptica,55.5
+429,,,Fossa rudimentar,9.9
+430,,,Vala,3.6
+431,,,"Direto para rio, lago ou mar",1.1
+432,,,Outro tipo,0.4
+433,,,Não tinham,16.4
+434,,Piauí,Rede coletora,5.4
+435,,,Fossa séptica,81.7
+436,,,Fossa rudimentar,3.2
+437,,,Vala,0.3
+438,,,"Direto para rio, lago ou mar",0.1
+439,,,Outro tipo,0.0
+440,,,Não tinham,9.3
+441,,Ceará,Rede coletora,30.6
+442,,,Fossa séptica,20.8
+443,,,Fossa rudimentar,41.4
+444,,,Vala,0.8
+445,,,"Direto para rio, lago ou mar",1.1
+446,,,Outro tipo,0.3
+447,,,Não tinham,5.0
+448,,Rio Grande do Norte,Rede coletora,20.2
+449,,,Fossa séptica,37.6
+450,,,Fossa rudimentar,40.3
+451,,,Vala,0.7
+452,,,"Direto para rio, lago ou mar",0.0
+453,,,Outro tipo,0.0
+454,,,Não tinham,1.2
+455,,Paraíba,Rede coletora,41.7
+456,,,Fossa séptica,19.9
+457,,,Fossa rudimentar,31.5
+458,,,Vala,4.7
+459,,,"Direto para rio, lago ou mar",0.2
+460,,,Outro tipo,0.0
+461,,,Não tinham,2.0
+462,,Pernambuco,Rede coletora,46.8
+463,,,Fossa séptica,3.1
+464,,,Fossa rudimentar,39.0
+465,,,Vala,3.6
+466,,,"Direto para rio, lago ou mar",4.9
+467,,,Outro tipo,0.3
+468,,,Não tinham,2.2
+469,,Alagoas,Rede coletora,9.9
+470,,,Fossa séptica,26.1
+471,,,Fossa rudimentar,53.6
+472,,,Vala,6.4
+473,,,"Direto para rio, lago ou mar",0.4
+474,,,Outro tipo,0.1
+475,,,Não tinham,3.6
+476,,Sergipe,Rede coletora,37.6
+477,,,Fossa séptica,45.0
+478,,,Fossa rudimentar,14.7
+479,,,Vala,0.3
+480,,,"Direto para rio, lago ou mar",0.3
+481,,,Outro tipo,0.0
+482,,,Não tinham,2.1
+483,,Bahia,Rede coletora,56.5
+484,,,Fossa séptica,14.5
+485,,,Fossa rudimentar,22.6
+486,,,Vala,1.3
+487,,,"Direto para rio, lago ou mar",1.9
+488,,,Outro tipo,0.2
+489,,,Não tinham,3.1
+490,,Minas Gerais,Rede coletora,85.7
+491,,,Fossa séptica,1.7
+492,,,Fossa rudimentar,8.9
+493,,,Vala,0.2
+494,,,"Direto para rio, lago ou mar",2.6
+495,,,Outro tipo,0.0
+496,,,Não tinham,0.9
+497,,Espírito Santo,Rede coletora,67.1
+498,,,Fossa séptica,17.9
+499,,,Fossa rudimentar,6.8
+500,,,Vala,3.1
+501,,,"Direto para rio, lago ou mar",4.4
+502,,,Outro tipo,0.4
+503,,,Não tinham,0.2
+504,,Rio de Janeiro,Rede coletora,61.9
+505,,,Fossa séptica,29.8
+506,,,Fossa rudimentar,2.2
+507,,,Vala,2.9
+508,,,"Direto para rio, lago ou mar",2.9
+509,,,Outro tipo,0.1
+510,,,Não tinham,0.2
+511,,São Paulo,Rede coletora,87.5
+512,,,Fossa séptica,6.1
+513,,,Fossa rudimentar,1.8
+514,,,Vala,0.6
+515,,,"Direto para rio, lago ou mar",3.8
+516,,,Outro tipo,0.0
+517,,,Não tinham,0.1
+518,,Paraná,Rede coletora,53.9
+519,,,Fossa séptica,21.4
+520,,,Fossa rudimentar,22.7
+521,,,Vala,0.5
+522,,,"Direto para rio, lago ou mar",0.9
+523,,,Outro tipo,0.0
+524,,,Não tinham,0.6
+525,,Santa Catarina,Rede coletora,12.5
+526,,,Fossa séptica,78.9
+527,,,Fossa rudimentar,5.0
+528,,,Vala,1.2
+529,,,"Direto para rio, lago ou mar",2.1
+530,,,Outro tipo,0.0
+531,,,Não tinham,0.3
+532,,Rio Grande do Sul,Rede coletora,18.0
+533,,,Fossa séptica,68.2
+534,,,Fossa rudimentar,10.5
+535,,,Vala,1.3
+536,,,"Direto para rio, lago ou mar",1.2
+537,,,Outro tipo,0.0
+538,,,Não tinham,0.7
+539,,Mato Grosso do Sul,Rede coletora,13.9
+540,,,Fossa séptica,12.0
+541,,,Fossa rudimentar,72.9
+542,,,Vala,0.1
+543,,,"Direto para rio, lago ou mar",0.5
+544,,,Outro tipo,0.0
+545,,,Não tinham,0.5
+546,,Mato Grosso,Rede coletora,16.3
+547,,,Fossa séptica,28.3
+548,,,Fossa rudimentar,53.9
+549,,,Vala,0.1
+550,,,"Direto para rio, lago ou mar",0.1
+551,,,Outro tipo,0.0
+552,,,Não tinham,1.3
+553,,Goiás,Rede coletora,35.5
+554,,,Fossa séptica,4.6
+555,,,Fossa rudimentar,58.6
+556,,,Vala,0.1
+557,,,"Direto para rio, lago ou mar",0.5
+558,,,Outro tipo,0.0
+559,,,Não tinham,0.7
+560,,Distrito Federal,Rede coletora,84.3
+561,,,Fossa séptica,12.3
+562,,,Fossa rudimentar,3.1
+563,,,Vala,0.1
+564,,,"Direto para rio, lago ou mar",0.0
+565,,,Outro tipo,0.0
+566,,,Não tinham,0.3
+567,2007.0,Rondônia,Rede coletora,4.4
+568,,,Fossa séptica,28.3
+569,,,Fossa rudimentar,63.6
+570,,,Vala,0.7
+571,,,"Direto para rio, lago ou mar",0.6
+572,,,Outro tipo,0.8
+573,,,Não tinham,1.6
+574,,Acre,Rede coletora,20.5
+575,,,Fossa séptica,47.5
+576,,,Fossa rudimentar,11.3
+577,,,Vala,11.3
+578,,,"Direto para rio, lago ou mar",3.9
+579,,,Outro tipo,0.0
+580,,,Não tinham,5.5
+581,,Amazonas,Rede coletora,27.8
+582,,,Fossa séptica,51.9
+583,,,Fossa rudimentar,8.5
+584,,,Vala,3.0
+585,,,"Direto para rio, lago ou mar",5.7
+586,,,Outro tipo,0.4
+587,,,Não tinham,2.6
+588,,Roraima,Rede coletora,14.2
+589,,,Fossa séptica,73.2
+590,,,Fossa rudimentar,10.0
+591,,,Vala,0.5
+592,,,"Direto para rio, lago ou mar",0.5
+593,,,Outro tipo,0.0
+594,,,Não tinham,1.7
+595,,Pará,Rede coletora,5.2
+596,,,Fossa séptica,61.5
+597,,,Fossa rudimentar,26.1
+598,,,Vala,2.1
+599,,,"Direto para rio, lago ou mar",0.7
+600,,,Outro tipo,0.1
+601,,,Não tinham,4.4
+602,,Amapá,Rede coletora,2.7
+603,,,Fossa séptica,55.4
+604,,,Fossa rudimentar,27.1
+605,,,Vala,2.6
+606,,,"Direto para rio, lago ou mar",9.4
+607,,,Outro tipo,0.0
+608,,,Não tinham,2.9
+609,,Tocantins,Rede coletora,15.0
+610,,,Fossa séptica,22.0
+611,,,Fossa rudimentar,59.1
+612,,,Vala,0.8
+613,,,"Direto para rio, lago ou mar",0.1
+614,,,Outro tipo,0.0
+615,,,Não tinham,3.1
+616,,Maranhão,Rede coletora,14.9
+617,,,Fossa séptica,53.5
+618,,,Fossa rudimentar,11.3
+619,,,Vala,1.5
+620,,,"Direto para rio, lago ou mar",0.5
+621,,,Outro tipo,0.0
+622,,,Não tinham,18.4
+623,,Piauí,Rede coletora,7.3
+624,,,Fossa séptica,75.4
+625,,,Fossa rudimentar,7.9
+626,,,Vala,0.3
+627,,,"Direto para rio, lago ou mar",0.0
+628,,,Outro tipo,0.1
+629,,,Não tinham,9.0
+630,,Ceará,Rede coletora,33.2
+631,,,Fossa séptica,26.6
+632,,,Fossa rudimentar,35.3
+633,,,Vala,0.8
+634,,,"Direto para rio, lago ou mar",0.8
+635,,,Outro tipo,0.1
+636,,,Não tinham,3.2
+637,,Rio Grande do Norte,Rede coletora,20.2
+638,,,Fossa séptica,46.5
+639,,,Fossa rudimentar,30.6
+640,,,Vala,0.7
+641,,,"Direto para rio, lago ou mar",0.8
+642,,,Outro tipo,0.1
+643,,,Não tinham,1.1
+644,,Paraíba,Rede coletora,49.1
+645,,,Fossa séptica,18.0
+646,,,Fossa rudimentar,26.6
+647,,,Vala,2.1
+648,,,"Direto para rio, lago ou mar",1.9
+649,,,Outro tipo,0.2
+650,,,Não tinham,2.0
+651,,Pernambuco,Rede coletora,47.3
+652,,,Fossa séptica,17.6
+653,,,Fossa rudimentar,25.4
+654,,,Vala,3.3
+655,,,"Direto para rio, lago ou mar",4.1
+656,,,Outro tipo,0.3
+657,,,Não tinham,2.0
+658,,Alagoas,Rede coletora,7.6
+659,,,Fossa séptica,27.5
+660,,,Fossa rudimentar,55.3
+661,,,Vala,5.5
+662,,,"Direto para rio, lago ou mar",0.6
+663,,,Outro tipo,0.4
+664,,,Não tinham,3.1
+665,,Sergipe,Rede coletora,34.5
+666,,,Fossa séptica,49.5
+667,,,Fossa rudimentar,11.0
+668,,,Vala,1.6
+669,,,"Direto para rio, lago ou mar",1.7
+670,,,Outro tipo,0.1
+671,,,Não tinham,1.5
+672,,Bahia,Rede coletora,58.9
+673,,,Fossa séptica,20.1
+674,,,Fossa rudimentar,15.1
+675,,,Vala,1.5
+676,,,"Direto para rio, lago ou mar",1.4
+677,,,Outro tipo,0.1
+678,,,Não tinham,3.0
+679,,Minas Gerais,Rede coletora,87.3
+680,,,Fossa séptica,4.2
+681,,,Fossa rudimentar,6.0
+682,,,Vala,0.3
+683,,,"Direto para rio, lago ou mar",1.7
+684,,,Outro tipo,0.1
+685,,,Não tinham,0.5
+686,,Espírito Santo,Rede coletora,66.0
+687,,,Fossa séptica,21.5
+688,,,Fossa rudimentar,4.4
+689,,,Vala,3.9
+690,,,"Direto para rio, lago ou mar",3.4
+691,,,Outro tipo,0.2
+692,,,Não tinham,0.6
+693,,Rio de Janeiro,Rede coletora,69.0
+694,,,Fossa séptica,22.9
+695,,,Fossa rudimentar,2.6
+696,,,Vala,2.2
+697,,,"Direto para rio, lago ou mar",2.9
+698,,,Outro tipo,0.1
+699,,,Não tinham,0.3
+700,,São Paulo,Rede coletora,88.7
+701,,,Fossa séptica,6.4
+702,,,Fossa rudimentar,1.6
+703,,,Vala,0.5
+704,,,"Direto para rio, lago ou mar",2.6
+705,,,Outro tipo,0.0
+706,,,Não tinham,0.1
+707,,Paraná,Rede coletora,59.1
+708,,,Fossa séptica,17.9
+709,,,Fossa rudimentar,20.4
+710,,,Vala,1.0
+711,,,"Direto para rio, lago ou mar",1.3
+712,,,Outro tipo,0.0
+713,,,Não tinham,0.4
+714,,Santa Catarina,Rede coletora,24.4
+715,,,Fossa séptica,68.2
+716,,,Fossa rudimentar,4.2
+717,,,Vala,1.6
+718,,,"Direto para rio, lago ou mar",1.2
+719,,,Outro tipo,0.2
+720,,,Não tinham,0.4
+721,,Rio Grande do Sul,Rede coletora,24.3
+722,,,Fossa séptica,64.1
+723,,,Fossa rudimentar,7.5
+724,,,Vala,1.9
+725,,,"Direto para rio, lago ou mar",1.2
+726,,,Outro tipo,0.1
+727,,,Não tinham,0.9
+728,,Mato Grosso do Sul,Rede coletora,17.6
+729,,,Fossa séptica,15.9
+730,,,Fossa rudimentar,65.8
+731,,,Vala,0.2
+732,,,"Direto para rio, lago ou mar",0.0
+733,,,Outro tipo,0.0
+734,,,Não tinham,0.4
+735,,Mato Grosso,Rede coletora,12.3
+736,,,Fossa séptica,20.4
+737,,,Fossa rudimentar,64.3
+738,,,Vala,0.3
+739,,,"Direto para rio, lago ou mar",0.2
+740,,,Outro tipo,0.0
+741,,,Não tinham,2.5
+742,,Goiás,Rede coletora,37.6
+743,,,Fossa séptica,11.0
+744,,,Fossa rudimentar,49.9
+745,,,Vala,0.1
+746,,,"Direto para rio, lago ou mar",0.8
+747,,,Outro tipo,0.1
+748,,,Não tinham,0.6
+749,,Distrito Federal,Rede coletora,84.0
+750,,,Fossa séptica,11.4
+751,,,Fossa rudimentar,4.3
+752,,,Vala,0.0
+753,,,"Direto para rio, lago ou mar",0.0
+754,,,Outro tipo,0.1
+755,,,Não tinham,0.1
+756,2008.0,Rondônia,Rede coletora,3.8
+757,,,Fossa séptica,77.5
+758,,,Fossa rudimentar,16.0
+759,,,Vala,0.9
+760,,,"Direto para rio, lago ou mar",1.1
+761,,,Outro tipo,0.1
+762,,,Não tinham,0.7
+763,,Acre,Rede coletora,33.7
+764,,,Fossa séptica,28.8
+765,,,Fossa rudimentar,18.7
+766,,,Vala,11.2
+767,,,"Direto para rio, lago ou mar",2.4
+768,,,Outro tipo,0.4
+769,,,Não tinham,4.8
+770,,Amazonas,Rede coletora,22.0
+771,,,Fossa séptica,41.7
+772,,,Fossa rudimentar,21.1
+773,,,Vala,4.4
+774,,,"Direto para rio, lago ou mar",6.2
+775,,,Outro tipo,0.5
+776,,,Não tinham,4.0
+777,,Roraima,Rede coletora,13.9
+778,,,Fossa séptica,78.0
+779,,,Fossa rudimentar,5.8
+780,,,Vala,0.3
+781,,,"Direto para rio, lago ou mar",0.0
+782,,,Outro tipo,0.3
+783,,,Não tinham,1.6
+784,,Pará,Rede coletora,5.2
+785,,,Fossa séptica,66.2
+786,,,Fossa rudimentar,22.0
+787,,,Vala,1.0
+788,,,"Direto para rio, lago ou mar",0.4
+789,,,Outro tipo,0.1
+790,,,Não tinham,5.1
+791,,Amapá,Rede coletora,3.1
+792,,,Fossa séptica,32.6
+793,,,Fossa rudimentar,51.1
+794,,,Vala,3.4
+795,,,"Direto para rio, lago ou mar",9.4
+796,,,Outro tipo,0.0
+797,,,Não tinham,0.5
+798,,Tocantins,Rede coletora,19.9
+799,,,Fossa séptica,20.7
+800,,,Fossa rudimentar,57.1
+801,,,Vala,0.0
+802,,,"Direto para rio, lago ou mar",0.0
+803,,,Outro tipo,0.1
+804,,,Não tinham,2.1
+805,,Maranhão,Rede coletora,15.1
+806,,,Fossa séptica,61.4
+807,,,Fossa rudimentar,12.7
+808,,,Vala,3.0
+809,,,"Direto para rio, lago ou mar",1.0
+810,,,Outro tipo,0.0
+811,,,Não tinham,6.9
+812,,Piauí,Rede coletora,4.0
+813,,,Fossa séptica,75.0
+814,,,Fossa rudimentar,12.6
+815,,,Vala,0.7
+816,,,"Direto para rio, lago ou mar",0.1
+817,,,Outro tipo,0.1
+818,,,Não tinham,7.5
+819,,Ceará,Rede coletora,37.4
+820,,,Fossa séptica,25.6
+821,,,Fossa rudimentar,32.4
+822,,,Vala,1.0
+823,,,"Direto para rio, lago ou mar",1.0
+824,,,Outro tipo,0.1
+825,,,Não tinham,2.6
+826,,Rio Grande do Norte,Rede coletora,21.7
+827,,,Fossa séptica,33.7
+828,,,Fossa rudimentar,40.8
+829,,,Vala,1.6
+830,,,"Direto para rio, lago ou mar",0.8
+831,,,Outro tipo,0.0
+832,,,Não tinham,1.5
+833,,Paraíba,Rede coletora,50.7
+834,,,Fossa séptica,19.6
+835,,,Fossa rudimentar,23.0
+836,,,Vala,3.2
+837,,,"Direto para rio, lago ou mar",1.7
+838,,,Outro tipo,0.1
+839,,,Não tinham,1.5
+840,,Pernambuco,Rede coletora,51.4
+841,,,Fossa séptica,10.7
+842,,,Fossa rudimentar,28.4
+843,,,Vala,3.8
+844,,,"Direto para rio, lago ou mar",3.4
+845,,,Outro tipo,0.1
+846,,,Não tinham,2.1
+847,,Alagoas,Rede coletora,16.1
+848,,,Fossa séptica,31.9
+849,,,Fossa rudimentar,45.6
+850,,,Vala,2.5
+851,,,"Direto para rio, lago ou mar",1.3
+852,,,Outro tipo,0.1
+853,,,Não tinham,2.5
+854,,Sergipe,Rede coletora,41.0
+855,,,Fossa séptica,45.9
+856,,,Fossa rudimentar,8.0
+857,,,Vala,2.5
+858,,,"Direto para rio, lago ou mar",1.5
+859,,,Outro tipo,0.0
+860,,,Não tinham,1.0
+861,,Bahia,Rede coletora,62.0
+862,,,Fossa séptica,12.2
+863,,,Fossa rudimentar,20.2
+864,,,Vala,1.4
+865,,,"Direto para rio, lago ou mar",1.7
+866,,,Outro tipo,0.2
+867,,,Não tinham,2.3
+868,,Minas Gerais,Rede coletora,88.5
+869,,,Fossa séptica,2.8
+870,,,Fossa rudimentar,6.1
+871,,,Vala,0.3
+872,,,"Direto para rio, lago ou mar",1.9
+873,,,Outro tipo,0.1
+874,,,Não tinham,0.4
+875,,Espírito Santo,Rede coletora,68.2
+876,,,Fossa séptica,13.7
+877,,,Fossa rudimentar,6.8
+878,,,Vala,3.8
+879,,,"Direto para rio, lago ou mar",6.2
+880,,,Outro tipo,0.6
+881,,,Não tinham,0.7
+882,,Rio de Janeiro,Rede coletora,69.8
+883,,,Fossa séptica,19.8
+884,,,Fossa rudimentar,4.0
+885,,,Vala,2.9
+886,,,"Direto para rio, lago ou mar",3.0
+887,,,Outro tipo,0.1
+888,,,Não tinham,0.4
+889,,São Paulo,Rede coletora,90.7
+890,,,Fossa séptica,4.9
+891,,,Fossa rudimentar,1.5
+892,,,Vala,0.6
+893,,,"Direto para rio, lago ou mar",2.1
+894,,,Outro tipo,0.1
+895,,,Não tinham,0.1
+896,,Paraná,Rede coletora,62.0
+897,,,Fossa séptica,16.7
+898,,,Fossa rudimentar,19.2
+899,,,Vala,0.8
+900,,,"Direto para rio, lago ou mar",0.8
+901,,,Outro tipo,0.0
+902,,,Não tinham,0.6
+903,,Santa Catarina,Rede coletora,31.9
+904,,,Fossa séptica,54.7
+905,,,Fossa rudimentar,9.5
+906,,,Vala,0.9
+907,,,"Direto para rio, lago ou mar",2.7
+908,,,Outro tipo,0.0
+909,,,Não tinham,0.4
+910,,Rio Grande do Sul,Rede coletora,18.9
+911,,,Fossa séptica,66.4
+912,,,Fossa rudimentar,10.9
+913,,,Vala,1.8
+914,,,"Direto para rio, lago ou mar",1.1
+915,,,Outro tipo,0.1
+916,,,Não tinham,0.7
+917,,Mato Grosso do Sul,Rede coletora,20.0
+918,,,Fossa séptica,6.7
+919,,,Fossa rudimentar,72.6
+920,,,Vala,0.2
+921,,,"Direto para rio, lago ou mar",0.3
+922,,,Outro tipo,0.0
+923,,,Não tinham,0.2
+924,,Mato Grosso,Rede coletora,21.6
+925,,,Fossa séptica,39.1
+926,,,Fossa rudimentar,38.1
+927,,,Vala,0.2
+928,,,"Direto para rio, lago ou mar",0.0
+929,,,Outro tipo,0.0
+930,,,Não tinham,1.0
+931,,Goiás,Rede coletora,38.0
+932,,,Fossa séptica,0.8
+933,,,Fossa rudimentar,59.9
+934,,,Vala,0.2
+935,,,"Direto para rio, lago ou mar",0.6
+936,,,Outro tipo,0.0
+937,,,Não tinham,0.4
+938,,Distrito Federal,Rede coletora,88.6
+939,,,Fossa séptica,9.6
+940,,,Fossa rudimentar,1.7
+941,,,Vala,0.0
+942,,,"Direto para rio, lago ou mar",0.0
+943,,,Outro tipo,0.0
+944,,,Não tinham,0.1
+945,2009.0,Rondônia,Rede coletora,5.2
+946,,,Fossa séptica,28.3
+947,,,Fossa rudimentar,63.0
+948,,,Vala,0.9
+949,,,"Direto para rio, lago ou mar",0.8
+950,,,Outro tipo,0.3
+951,,,Não tinham,1.4
+952,,Acre,Rede coletora,26.9
+953,,,Fossa séptica,37.7
+954,,,Fossa rudimentar,13.6
+955,,,Vala,14.7
+956,,,"Direto para rio, lago ou mar",2.8
+957,,,Outro tipo,0.4
+958,,,Não tinham,3.9
+959,,Amazonas,Rede coletora,21.3
+960,,,Fossa séptica,47.2
+961,,,Fossa rudimentar,19.0
+962,,,Vala,4.2
+963,,,"Direto para rio, lago ou mar",6.5
+964,,,Outro tipo,0.1
+965,,,Não tinham,1.7
+966,,Roraima,Rede coletora,15.5
+967,,,Fossa séptica,79.8
+968,,,Fossa rudimentar,2.7
+969,,,Vala,0.8
+970,,,"Direto para rio, lago ou mar",0.1
+971,,,Outro tipo,0.0
+972,,,Não tinham,1.1
+973,,Pará,Rede coletora,2.8
+974,,,Fossa séptica,66.9
+975,,,Fossa rudimentar,23.3
+976,,,Vala,1.9
+977,,,"Direto para rio, lago ou mar",0.6
+978,,,Outro tipo,0.2
+979,,,Não tinham,4.3
+980,,Amapá,Rede coletora,1.1
+981,,,Fossa séptica,59.1
+982,,,Fossa rudimentar,29.4
+983,,,Vala,0.5
+984,,,"Direto para rio, lago ou mar",8.9
+985,,,Outro tipo,0.0
+986,,,Não tinham,1.0
+987,,Tocantins,Rede coletora,16.2
+988,,,Fossa séptica,19.8
+989,,,Fossa rudimentar,60.9
+990,,,Vala,0.4
+991,,,"Direto para rio, lago ou mar",0.1
+992,,,Outro tipo,0.5
+993,,,Não tinham,2.0
+994,,Maranhão,Rede coletora,13.1
+995,,,Fossa séptica,58.8
+996,,,Fossa rudimentar,18.1
+997,,,Vala,1.2
+998,,,"Direto para rio, lago ou mar",0.4
+999,,,Outro tipo,0.0
+1000,,,Não tinham,8.4
+1001,,Piauí,Rede coletora,6.0
+1002,,,Fossa séptica,72.0
+1003,,,Fossa rudimentar,14.0
+1004,,,Vala,0.3
+1005,,,"Direto para rio, lago ou mar",0.2
+1006,,,Outro tipo,0.0
+1007,,,Não tinham,7.5
+1008,,Ceará,Rede coletora,38.8
+1009,,,Fossa séptica,16.3
+1010,,,Fossa rudimentar,40.2
+1011,,,Vala,1.2
+1012,,,"Direto para rio, lago ou mar",1.0
+1013,,,Outro tipo,0.2
+1014,,,Não tinham,2.4
+1015,,Rio Grande do Norte,Rede coletora,18.6
+1016,,,Fossa séptica,35.2
+1017,,,Fossa rudimentar,43.5
+1018,,,Vala,1.3
+1019,,,"Direto para rio, lago ou mar",0.7
+1020,,,Outro tipo,0.0
+1021,,,Não tinham,0.8
+1022,,Paraíba,Rede coletora,49.4
+1023,,,Fossa séptica,17.7
+1024,,,Fossa rudimentar,27.8
+1025,,,Vala,2.2
+1026,,,"Direto para rio, lago ou mar",1.5
+1027,,,Outro tipo,0.1
+1028,,,Não tinham,1.4
+1029,,Pernambuco,Rede coletora,48.0
+1030,,,Fossa séptica,3.6
+1031,,,Fossa rudimentar,38.9
+1032,,,Vala,3.5
+1033,,,"Direto para rio, lago ou mar",4.5
+1034,,,Outro tipo,0.1
+1035,,,Não tinham,1.2
+1036,,Alagoas,Rede coletora,11.4
+1037,,,Fossa séptica,31.2
+1038,,,Fossa rudimentar,50.0
+1039,,,Vala,4.1
+1040,,,"Direto para rio, lago ou mar",1.4
+1041,,,Outro tipo,0.1
+1042,,,Não tinham,1.8
+1043,,Sergipe,Rede coletora,49.8
+1044,,,Fossa séptica,40.5
+1045,,,Fossa rudimentar,8.2
+1046,,,Vala,0.7
+1047,,,"Direto para rio, lago ou mar",0.3
+1048,,,Outro tipo,0.1
+1049,,,Não tinham,0.5
+1050,,Bahia,Rede coletora,58.6
+1051,,,Fossa séptica,15.0
+1052,,,Fossa rudimentar,22.0
+1053,,,Vala,1.2
+1054,,,"Direto para rio, lago ou mar",1.0
+1055,,,Outro tipo,0.1
+1056,,,Não tinham,2.1
+1057,,Minas Gerais,Rede coletora,89.1
+1058,,,Fossa séptica,0.6
+1059,,,Fossa rudimentar,7.4
+1060,,,Vala,0.2
+1061,,,"Direto para rio, lago ou mar",2.2
+1062,,,Outro tipo,0.0
+1063,,,Não tinham,0.4
+1064,,Espírito Santo,Rede coletora,70.5
+1065,,,Fossa séptica,13.3
+1066,,,Fossa rudimentar,9.0
+1067,,,Vala,2.1
+1068,,,"Direto para rio, lago ou mar",4.5
+1069,,,Outro tipo,0.1
+1070,,,Não tinham,0.5
+1071,,Rio de Janeiro,Rede coletora,73.4
+1072,,,Fossa séptica,16.0
+1073,,,Fossa rudimentar,4.9
+1074,,,Vala,2.1
+1075,,,"Direto para rio, lago ou mar",3.3
+1076,,,Outro tipo,0.1
+1077,,,Não tinham,0.2
+1078,,São Paulo,Rede coletora,91.1
+1079,,,Fossa séptica,4.0
+1080,,,Fossa rudimentar,1.6
+1081,,,Vala,0.3
+1082,,,"Direto para rio, lago ou mar",2.5
+1083,,,Outro tipo,0.3
+1084,,,Não tinham,0.2
+1085,,Paraná,Rede coletora,63.8
+1086,,,Fossa séptica,18.1
+1087,,,Fossa rudimentar,16.5
+1088,,,Vala,0.4
+1089,,,"Direto para rio, lago ou mar",0.8
+1090,,,Outro tipo,0.1
+1091,,,Não tinham,0.3
+1092,,Santa Catarina,Rede coletora,28.5
+1093,,,Fossa séptica,61.2
+1094,,,Fossa rudimentar,7.8
+1095,,,Vala,0.5
+1096,,,"Direto para rio, lago ou mar",1.8
+1097,,,Outro tipo,0.1
+1098,,,Não tinham,0.2
+1099,,Rio Grande do Sul,Rede coletora,21.2
+1100,,,Fossa séptica,67.8
+1101,,,Fossa rudimentar,8.3
+1102,,,Vala,1.2
+1103,,,"Direto para rio, lago ou mar",0.6
+1104,,,Outro tipo,0.0
+1105,,,Não tinham,0.9
+1106,,Mato Grosso do Sul,Rede coletora,20.4
+1107,,,Fossa séptica,6.8
+1108,,,Fossa rudimentar,72.6
+1109,,,Vala,0.1
+1110,,,"Direto para rio, lago ou mar",0.0
+1111,,,Outro tipo,0.0
+1112,,,Não tinham,0.1
+1113,,Mato Grosso,Rede coletora,13.1
+1114,,,Fossa séptica,21.3
+1115,,,Fossa rudimentar,64.4
+1116,,,Vala,0.4
+1117,,,"Direto para rio, lago ou mar",0.0
+1118,,,Outro tipo,0.0
+1119,,,Não tinham,0.8
+1120,,Goiás,Rede coletora,39.0
+1121,,,Fossa séptica,5.6
+1122,,,Fossa rudimentar,54.3
+1123,,,Vala,0.1
+1124,,,"Direto para rio, lago ou mar",0.3
+1125,,,Outro tipo,0.0
+1126,,,Não tinham,0.6
+1127,,Distrito Federal,Rede coletora,89.5
+1128,,,Fossa séptica,10.0
+1129,,,Fossa rudimentar,0.4
+1130,,,Vala,0.0
+1131,,,"Direto para rio, lago ou mar",0.0
+1132,,,Outro tipo,0.0
+1133,,,Não tinham,0.1
+1134,2011.0,Rondônia,Rede coletora,3.3
+1135,,,Fossa séptica,80.4
+1136,,,Fossa rudimentar,13.6
+1137,,,Vala,0.3
+1138,,,"Direto para rio, lago ou mar",0.5
+1139,,,Outro tipo,0.0
+1140,,,Não tinham,1.9
+1141,,Acre,Rede coletora,24.2
+1142,,,Fossa séptica,29.2
+1143,,,Fossa rudimentar,28.4
+1144,,,Vala,9.0
+1145,,,"Direto para rio, lago ou mar",4.2
+1146,,,Outro tipo,0.1
+1147,,,Não tinham,4.8
+1148,,Amazonas,Rede coletora,31.9
+1149,,,Fossa séptica,40.4
+1150,,,Fossa rudimentar,17.6
+1151,,,Vala,2.0
+1152,,,"Direto para rio, lago ou mar",4.4
+1153,,,Outro tipo,0.3
+1154,,,Não tinham,3.4
+1155,,Roraima,Rede coletora,14.0
+1156,,,Fossa séptica,83.3
+1157,,,Fossa rudimentar,1.0
+1158,,,Vala,0.2
+1159,,,"Direto para rio, lago ou mar",0.4
+1160,,,Outro tipo,0.0
+1161,,,Não tinham,1.1
+1162,,Pará,Rede coletora,11.1
+1163,,,Fossa séptica,53.7
+1164,,,Fossa rudimentar,28.7
+1165,,,Vala,1.0
+1166,,,"Direto para rio, lago ou mar",0.5
+1167,,,Outro tipo,0.1
+1168,,,Não tinham,5.0
+1169,,Amapá,Rede coletora,5.0
+1170,,,Fossa séptica,56.4
+1171,,,Fossa rudimentar,14.6
+1172,,,Vala,2.7
+1173,,,"Direto para rio, lago ou mar",15.0
+1174,,,Outro tipo,0.0
+1175,,,Não tinham,6.3
+1176,,Tocantins,Rede coletora,20.1
+1177,,,Fossa séptica,26.7
+1178,,,Fossa rudimentar,50.2
+1179,,,Vala,0.8
+1180,,,"Direto para rio, lago ou mar",0.0
+1181,,,Outro tipo,0.1
+1182,,,Não tinham,2.2
+1183,,Maranhão,Rede coletora,24.7
+1184,,,Fossa séptica,42.5
+1185,,,Fossa rudimentar,19.0
+1186,,,Vala,2.2
+1187,,,"Direto para rio, lago ou mar",0.7
+1188,,,Outro tipo,0.1
+1189,,,Não tinham,10.7
+1190,,Piauí,Rede coletora,5.5
+1191,,,Fossa séptica,83.1
+1192,,,Fossa rudimentar,6.2
+1193,,,Vala,0.5
+1194,,,"Direto para rio, lago ou mar",0.3
+1195,,,Outro tipo,0.0
+1196,,,Não tinham,4.3
+1197,,Ceará,Rede coletora,38.1
+1198,,,Fossa séptica,29.6
+1199,,,Fossa rudimentar,29.8
+1200,,,Vala,0.6
+1201,,,"Direto para rio, lago ou mar",0.6
+1202,,,Outro tipo,0.1
+1203,,,Não tinham,1.1
+1204,,Rio Grande do Norte,Rede coletora,19.6
+1205,,,Fossa séptica,63.0
+1206,,,Fossa rudimentar,15.7
+1207,,,Vala,1.2
+1208,,,"Direto para rio, lago ou mar",0.1
+1209,,,Outro tipo,0.0
+1210,,,Não tinham,0.4
+1211,,Paraíba,Rede coletora,58.9
+1212,,,Fossa séptica,15.9
+1213,,,Fossa rudimentar,22.7
+1214,,,Vala,1.4
+1215,,,"Direto para rio, lago ou mar",0.4
+1216,,,Outro tipo,0.0
+1217,,,Não tinham,0.7
+1218,,Pernambuco,Rede coletora,57.2
+1219,,,Fossa séptica,19.3
+1220,,,Fossa rudimentar,16.0
+1221,,,Vala,2.4
+1222,,,"Direto para rio, lago ou mar",4.0
+1223,,,Outro tipo,0.0
+1224,,,Não tinham,1.0
+1225,,Alagoas,Rede coletora,26.3
+1226,,,Fossa séptica,30.6
+1227,,,Fossa rudimentar,34.1
+1228,,,Vala,4.8
+1229,,,"Direto para rio, lago ou mar",2.8
+1230,,,Outro tipo,0.3
+1231,,,Não tinham,1.2
+1232,,Sergipe,Rede coletora,46.0
+1233,,,Fossa séptica,34.6
+1234,,,Fossa rudimentar,16.8
+1235,,,Vala,0.5
+1236,,,"Direto para rio, lago ou mar",1.6
+1237,,,Outro tipo,0.0
+1238,,,Não tinham,0.4
+1239,,Bahia,Rede coletora,58.9
+1240,,,Fossa séptica,13.8
+1241,,,Fossa rudimentar,23.2
+1242,,,Vala,1.6
+1243,,,"Direto para rio, lago ou mar",1.0
+1244,,,Outro tipo,0.0
+1245,,,Não tinham,1.4
+1246,,Minas Gerais,Rede coletora,87.5
+1247,,,Fossa séptica,2.9
+1248,,,Fossa rudimentar,6.4
+1249,,,Vala,0.1
+1250,,,"Direto para rio, lago ou mar",2.6
+1251,,,Outro tipo,0.1
+1252,,,Não tinham,0.4
+1253,,Espírito Santo,Rede coletora,83.4
+1254,,,Fossa séptica,7.2
+1255,,,Fossa rudimentar,5.2
+1256,,,Vala,2.4
+1257,,,"Direto para rio, lago ou mar",1.1
+1258,,,Outro tipo,0.2
+1259,,,Não tinham,0.4
+1260,,Rio de Janeiro,Rede coletora,70.3
+1261,,,Fossa séptica,21.2
+1262,,,Fossa rudimentar,1.5
+1263,,,Vala,3.6
+1264,,,"Direto para rio, lago ou mar",2.9
+1265,,,Outro tipo,0.2
+1266,,,Não tinham,0.3
+1267,,São Paulo,Rede coletora,92.6
+1268,,,Fossa séptica,4.2
+1269,,,Fossa rudimentar,1.2
+1270,,,Vala,0.2
+1271,,,"Direto para rio, lago ou mar",1.6
+1272,,,Outro tipo,0.1
+1273,,,Não tinham,0.1
+1274,,Paraná,Rede coletora,60.2
+1275,,,Fossa séptica,21.3
+1276,,,Fossa rudimentar,17.3
+1277,,,Vala,0.3
+1278,,,"Direto para rio, lago ou mar",0.4
+1279,,,Outro tipo,0.0
+1280,,,Não tinham,0.5
+1281,,Santa Catarina,Rede coletora,25.7
+1282,,,Fossa séptica,67.8
+1283,,,Fossa rudimentar,5.7
+1284,,,Vala,0.4
+1285,,,"Direto para rio, lago ou mar",0.2
+1286,,,Outro tipo,0.0
+1287,,,Não tinham,0.2
+1288,,Rio Grande do Sul,Rede coletora,29.5
+1289,,,Fossa séptica,62.1
+1290,,,Fossa rudimentar,6.0
+1291,,,Vala,1.1
+1292,,,"Direto para rio, lago ou mar",0.7
+1293,,,Outro tipo,0.1
+1294,,,Não tinham,0.6
+1295,,Mato Grosso do Sul,Rede coletora,32.6
+1296,,,Fossa séptica,10.7
+1297,,,Fossa rudimentar,56.3
+1298,,,Vala,0.1
+1299,,,"Direto para rio, lago ou mar",0.0
+1300,,,Outro tipo,0.0
+1301,,,Não tinham,0.3
+1302,,Mato Grosso,Rede coletora,23.4
+1303,,,Fossa séptica,17.8
+1304,,,Fossa rudimentar,58.4
+1305,,,Vala,0.0
+1306,,,"Direto para rio, lago ou mar",0.1
+1307,,,Outro tipo,0.0
+1308,,,Não tinham,0.3
+1309,,Goiás,Rede coletora,42.2
+1310,,,Fossa séptica,23.4
+1311,,,Fossa rudimentar,34.0
+1312,,,Vala,0.1
+1313,,,"Direto para rio, lago ou mar",0.0
+1314,,,Outro tipo,0.0
+1315,,,Não tinham,0.4
+1316,,Distrito Federal,Rede coletora,88.9
+1317,,,Fossa séptica,8.5
+1318,,,Fossa rudimentar,2.2
+1319,,,Vala,0.0
+1320,,,"Direto para rio, lago ou mar",0.0
+1321,,,Outro tipo,0.0
+1322,,,Não tinham,0.4
+1323,2012.0,Rondônia,Rede coletora,6.2
+1324,,,Fossa séptica,66.2
+1325,,,Fossa rudimentar,25.7
+1326,,,Vala,0.2
+1327,,,"Direto para rio, lago ou mar",0.5
+1328,,,Outro tipo,0.1
+1329,,,Não tinham,1.1
+1330,,Acre,Rede coletora,28.4
+1331,,,Fossa séptica,27.0
+1332,,,Fossa rudimentar,28.4
+1333,,,Vala,7.4
+1334,,,"Direto para rio, lago ou mar",4.0
+1335,,,Outro tipo,0.0
+1336,,,Não tinham,4.9
+1337,,Amazonas,Rede coletora,34.2
+1338,,,Fossa séptica,28.0
+1339,,,Fossa rudimentar,26.3
+1340,,,Vala,2.6
+1341,,,"Direto para rio, lago ou mar",6.7
+1342,,,Outro tipo,0.0
+1343,,,Não tinham,2.2
+1344,,Roraima,Rede coletora,21.0
+1345,,,Fossa séptica,76.3
+1346,,,Fossa rudimentar,0.6
+1347,,,Vala,0.3
+1348,,,"Direto para rio, lago ou mar",0.0
+1349,,,Outro tipo,0.0
+1350,,,Não tinham,1.8
+1351,,Pará,Rede coletora,8.5
+1352,,,Fossa séptica,52.2
+1353,,,Fossa rudimentar,33.8
+1354,,,Vala,2.2
+1355,,,"Direto para rio, lago ou mar",0.5
+1356,,,Outro tipo,0.1
+1357,,,Não tinham,2.8
+1358,,Amapá,Rede coletora,3.8
+1359,,,Fossa séptica,46.5
+1360,,,Fossa rudimentar,32.4
+1361,,,Vala,2.3
+1362,,,"Direto para rio, lago ou mar",12.2
+1363,,,Outro tipo,0.0
+1364,,,Não tinham,2.8
+1365,,Tocantins,Rede coletora,18.9
+1366,,,Fossa séptica,52.2
+1367,,,Fossa rudimentar,26.5
+1368,,,Vala,0.3
+1369,,,"Direto para rio, lago ou mar",0.1
+1370,,,Outro tipo,0.1
+1371,,,Não tinham,1.8
+1372,,Maranhão,Rede coletora,22.7
+1373,,,Fossa séptica,40.4
+1374,,,Fossa rudimentar,26.2
+1375,,,Vala,0.6
+1376,,,"Direto para rio, lago ou mar",0.8
+1377,,,Outro tipo,0.0
+1378,,,Não tinham,9.2
+1379,,Piauí,Rede coletora,4.3
+1380,,,Fossa séptica,85.3
+1381,,,Fossa rudimentar,4.9
+1382,,,Vala,0.2
+1383,,,"Direto para rio, lago ou mar",0.4
+1384,,,Outro tipo,0.1
+1385,,,Não tinham,4.7
+1386,,Ceará,Rede coletora,47.7
+1387,,,Fossa séptica,17.7
+1388,,,Fossa rudimentar,31.4
+1389,,,Vala,0.9
+1390,,,"Direto para rio, lago ou mar",1.0
+1391,,,Outro tipo,0.1
+1392,,,Não tinham,1.3
+1393,,Rio Grande do Norte,Rede coletora,20.9
+1394,,,Fossa séptica,67.5
+1395,,,Fossa rudimentar,10.8
+1396,,,Vala,0.1
+1397,,,"Direto para rio, lago ou mar",0.0
+1398,,,Outro tipo,0.0
+1399,,,Não tinham,0.6
+1400,,Paraíba,Rede coletora,61.4
+1401,,,Fossa séptica,20.9
+1402,,,Fossa rudimentar,14.8
+1403,,,Vala,1.8
+1404,,,"Direto para rio, lago ou mar",0.5
+1405,,,Outro tipo,0.1
+1406,,,Não tinham,0.6
+1407,,Pernambuco,Rede coletora,52.7
+1408,,,Fossa séptica,18.4
+1409,,,Fossa rudimentar,20.4
+1410,,,Vala,4.1
+1411,,,"Direto para rio, lago ou mar",3.2
+1412,,,Outro tipo,0.3
+1413,,,Não tinham,0.8
+1414,,Alagoas,Rede coletora,37.8
+1415,,,Fossa séptica,20.9
+1416,,,Fossa rudimentar,31.7
+1417,,,Vala,4.1
+1418,,,"Direto para rio, lago ou mar",3.5
+1419,,,Outro tipo,0.2
+1420,,,Não tinham,1.9
+1421,,Sergipe,Rede coletora,41.8
+1422,,,Fossa séptica,41.4
+1423,,,Fossa rudimentar,12.1
+1424,,,Vala,1.7
+1425,,,"Direto para rio, lago ou mar",2.3
+1426,,,Outro tipo,0.3
+1427,,,Não tinham,0.4
+1428,,Bahia,Rede coletora,63.5
+1429,,,Fossa séptica,12.1
+1430,,,Fossa rudimentar,19.5
+1431,,,Vala,1.7
+1432,,,"Direto para rio, lago ou mar",1.7
+1433,,,Outro tipo,0.1
+1434,,,Não tinham,1.4
+1435,,Minas Gerais,Rede coletora,88.0
+1436,,,Fossa séptica,3.7
+1437,,,Fossa rudimentar,6.0
+1438,,,Vala,0.2
+1439,,,"Direto para rio, lago ou mar",2.0
+1440,,,Outro tipo,0.0
+1441,,,Não tinham,0.3
+1442,,Espírito Santo,Rede coletora,77.4
+1443,,,Fossa séptica,13.6
+1444,,,Fossa rudimentar,4.1
+1445,,,Vala,1.2
+1446,,,"Direto para rio, lago ou mar",3.2
+1447,,,Outro tipo,0.1
+1448,,,Não tinham,0.4
+1449,,Rio de Janeiro,Rede coletora,79.0
+1450,,,Fossa séptica,14.5
+1451,,,Fossa rudimentar,1.9
+1452,,,Vala,2.4
+1453,,,"Direto para rio, lago ou mar",1.8
+1454,,,Outro tipo,0.2
+1455,,,Não tinham,0.3
+1456,,São Paulo,Rede coletora,93.3
+1457,,,Fossa séptica,4.0
+1458,,,Fossa rudimentar,1.0
+1459,,,Vala,0.5
+1460,,,"Direto para rio, lago ou mar",0.9
+1461,,,Outro tipo,0.0
+1462,,,Não tinham,0.2
+1463,,Paraná,Rede coletora,64.5
+1464,,,Fossa séptica,20.1
+1465,,,Fossa rudimentar,14.5
+1466,,,Vala,0.2
+1467,,,"Direto para rio, lago ou mar",0.5
+1468,,,Outro tipo,0.0
+1469,,,Não tinham,0.2
+1470,,Santa Catarina,Rede coletora,33.4
+1471,,,Fossa séptica,56.2
+1472,,,Fossa rudimentar,9.4
+1473,,,Vala,0.3
+1474,,,"Direto para rio, lago ou mar",0.2
+1475,,,Outro tipo,0.2
+1476,,,Não tinham,0.3
+1477,,Rio Grande do Sul,Rede coletora,39.7
+1478,,,Fossa séptica,50.4
+1479,,,Fossa rudimentar,7.1
+1480,,,Vala,1.5
+1481,,,"Direto para rio, lago ou mar",1.1
+1482,,,Outro tipo,0.1
+1483,,,Não tinham,0.2
+1484,,Mato Grosso do Sul,Rede coletora,35.7
+1485,,,Fossa séptica,22.8
+1486,,,Fossa rudimentar,41.0
+1487,,,Vala,0.0
+1488,,,"Direto para rio, lago ou mar",0.0
+1489,,,Outro tipo,0.0
+1490,,,Não tinham,0.5
+1491,,Mato Grosso,Rede coletora,23.6
+1492,,,Fossa séptica,30.8
+1493,,,Fossa rudimentar,45.0
+1494,,,Vala,0.3
+1495,,,"Direto para rio, lago ou mar",0.1
+1496,,,Outro tipo,0.0
+1497,,,Não tinham,0.3
+1498,,Goiás,Rede coletora,41.3
+1499,,,Fossa séptica,13.2
+1500,,,Fossa rudimentar,45.2
+1501,,,Vala,0.0
+1502,,,"Direto para rio, lago ou mar",0.0
+1503,,,Outro tipo,0.0
+1504,,,Não tinham,0.2
+1505,,Distrito Federal,Rede coletora,88.2
+1506,,,Fossa séptica,9.3
+1507,,,Fossa rudimentar,2.3
+1508,,,Vala,0.0
+1509,,,"Direto para rio, lago ou mar",0.0
+1510,,,Outro tipo,0.0
+1511,,,Não tinham,0.2
+1512,2013.0,Rondônia,Rede coletora,12.8
+1513,,,Fossa séptica,30.6
+1514,,,Fossa rudimentar,54.7
+1515,,,Vala,0.4
+1516,,,"Direto para rio, lago ou mar",0.4
+1517,,,Outro tipo,0.0
+1518,,,Não tinham,1.1
+1519,,Acre,Rede coletora,27.0
+1520,,,Fossa séptica,42.1
+1521,,,Fossa rudimentar,11.6
+1522,,,Vala,6.5
+1523,,,"Direto para rio, lago ou mar",2.5
+1524,,,Outro tipo,0.0
+1525,,,Não tinham,10.3
+1526,,Amazonas,Rede coletora,35.0
+1527,,,Fossa séptica,33.1
+1528,,,Fossa rudimentar,17.3
+1529,,,Vala,2.9
+1530,,,"Direto para rio, lago ou mar",8.9
+1531,,,Outro tipo,0.6
+1532,,,Não tinham,2.2
+1533,,Roraima,Rede coletora,22.1
+1534,,,Fossa séptica,73.6
+1535,,,Fossa rudimentar,1.4
+1536,,,Vala,0.3
+1537,,,"Direto para rio, lago ou mar",0.0
+1538,,,Outro tipo,0.1
+1539,,,Não tinham,2.5
+1540,,Pará,Rede coletora,9.2
+1541,,,Fossa séptica,59.7
+1542,,,Fossa rudimentar,25.6
+1543,,,Vala,2.1
+1544,,,"Direto para rio, lago ou mar",0.8
+1545,,,Outro tipo,0.0
+1546,,,Não tinham,2.6
+1547,,Amapá,Rede coletora,3.1
+1548,,,Fossa séptica,33.7
+1549,,,Fossa rudimentar,46.6
+1550,,,Vala,7.9
+1551,,,"Direto para rio, lago ou mar",6.2
+1552,,,Outro tipo,0.0
+1553,,,Não tinham,2.6
+1554,,Tocantins,Rede coletora,19.4
+1555,,,Fossa séptica,25.8
+1556,,,Fossa rudimentar,52.9
+1557,,,Vala,0.6
+1558,,,"Direto para rio, lago ou mar",0.2
+1559,,,Outro tipo,0.0
+1560,,,Não tinham,1.1
+1561,,Maranhão,Rede coletora,16.0
+1562,,,Fossa séptica,48.8
+1563,,,Fossa rudimentar,25.1
+1564,,,Vala,1.3
+1565,,,"Direto para rio, lago ou mar",0.6
+1566,,,Outro tipo,0.2
+1567,,,Não tinham,7.8
+1568,,Piauí,Rede coletora,2.4
+1569,,,Fossa séptica,92.2
+1570,,,Fossa rudimentar,2.3
+1571,,,Vala,0.1
+1572,,,"Direto para rio, lago ou mar",0.0
+1573,,,Outro tipo,0.3
+1574,,,Não tinham,2.7
+1575,,Ceará,Rede coletora,47.4
+1576,,,Fossa séptica,16.1
+1577,,,Fossa rudimentar,34.4
+1578,,,Vala,0.5
+1579,,,"Direto para rio, lago ou mar",0.4
+1580,,,Outro tipo,0.1
+1581,,,Não tinham,1.1
+1582,,Rio Grande do Norte,Rede coletora,24.8
+1583,,,Fossa séptica,41.9
+1584,,,Fossa rudimentar,31.2
+1585,,,Vala,1.4
+1586,,,"Direto para rio, lago ou mar",0.3
+1587,,,Outro tipo,0.0
+1588,,,Não tinham,0.5
+1589,,Paraíba,Rede coletora,63.0
+1590,,,Fossa séptica,10.2
+1591,,,Fossa rudimentar,23.5
+1592,,,Vala,2.1
+1593,,,"Direto para rio, lago ou mar",0.3
+1594,,,Outro tipo,0.1
+1595,,,Não tinham,0.8
+1596,,Pernambuco,Rede coletora,57.2
+1597,,,Fossa séptica,11.3
+1598,,,Fossa rudimentar,26.3
+1599,,,Vala,2.4
+1600,,,"Direto para rio, lago ou mar",1.8
+1601,,,Outro tipo,0.2
+1602,,,Não tinham,0.8
+1603,,Alagoas,Rede coletora,24.9
+1604,,,Fossa séptica,13.3
+1605,,,Fossa rudimentar,54.4
+1606,,,Vala,3.5
+1607,,,"Direto para rio, lago ou mar",2.4
+1608,,,Outro tipo,0.2
+1609,,,Não tinham,1.3
+1610,,Sergipe,Rede coletora,58.7
+1611,,,Fossa séptica,15.1
+1612,,,Fossa rudimentar,24.0
+1613,,,Vala,0.7
+1614,,,"Direto para rio, lago ou mar",1.0
+1615,,,Outro tipo,0.1
+1616,,,Não tinham,0.3
+1617,,Bahia,Rede coletora,63.9
+1618,,,Fossa séptica,12.2
+1619,,,Fossa rudimentar,20.5
+1620,,,Vala,0.7
+1621,,,"Direto para rio, lago ou mar",1.4
+1622,,,Outro tipo,0.1
+1623,,,Não tinham,1.2
+1624,,Minas Gerais,Rede coletora,89.2
+1625,,,Fossa séptica,2.4
+1626,,,Fossa rudimentar,5.8
+1627,,,Vala,0.2
+1628,,,"Direto para rio, lago ou mar",2.2
+1629,,,Outro tipo,0.0
+1630,,,Não tinham,0.3
+1631,,Espírito Santo,Rede coletora,89.5
+1632,,,Fossa séptica,5.2
+1633,,,Fossa rudimentar,3.3
+1634,,,Vala,0.8
+1635,,,"Direto para rio, lago ou mar",1.2
+1636,,,Outro tipo,0.0
+1637,,,Não tinham,0.1
+1638,,Rio de Janeiro,Rede coletora,80.9
+1639,,,Fossa séptica,12.5
+1640,,,Fossa rudimentar,1.9
+1641,,,Vala,2.0
+1642,,,"Direto para rio, lago ou mar",2.4
+1643,,,Outro tipo,0.1
+1644,,,Não tinham,0.3
+1645,,São Paulo,Rede coletora,94.6
+1646,,,Fossa séptica,2.8
+1647,,,Fossa rudimentar,0.8
+1648,,,Vala,0.4
+1649,,,"Direto para rio, lago ou mar",1.1
+1650,,,Outro tipo,0.0
+1651,,,Não tinham,0.2
+1652,,Paraná,Rede coletora,67.3
+1653,,,Fossa séptica,17.3
+1654,,,Fossa rudimentar,14.6
+1655,,,Vala,0.3
+1656,,,"Direto para rio, lago ou mar",0.3
+1657,,,Outro tipo,0.0
+1658,,,Não tinham,0.2
+1659,,Santa Catarina,Rede coletora,25.0
+1660,,,Fossa séptica,58.1
+1661,,,Fossa rudimentar,15.0
+1662,,,Vala,0.9
+1663,,,"Direto para rio, lago ou mar",0.4
+1664,,,Outro tipo,0.1
+1665,,,Não tinham,0.5
+1666,,Rio Grande do Sul,Rede coletora,44.8
+1667,,,Fossa séptica,44.2
+1668,,,Fossa rudimentar,7.6
+1669,,,Vala,1.7
+1670,,,"Direto para rio, lago ou mar",1.4
+1671,,,Outro tipo,0.0
+1672,,,Não tinham,0.4
+1673,,Mato Grosso do Sul,Rede coletora,31.6
+1674,,,Fossa séptica,24.1
+1675,,,Fossa rudimentar,44.0
+1676,,,Vala,0.0
+1677,,,"Direto para rio, lago ou mar",0.0
+1678,,,Outro tipo,0.0
+1679,,,Não tinham,0.3
+1680,,Mato Grosso,Rede coletora,29.1
+1681,,,Fossa séptica,13.3
+1682,,,Fossa rudimentar,57.0
+1683,,,Vala,0.0
+1684,,,"Direto para rio, lago ou mar",0.3
+1685,,,Outro tipo,0.1
+1686,,,Não tinham,0.2
+1687,,Goiás,Rede coletora,45.3
+1688,,,Fossa séptica,15.2
+1689,,,Fossa rudimentar,39.3
+1690,,,Vala,0.0
+1691,,,"Direto para rio, lago ou mar",0.1
+1692,,,Outro tipo,0.0
+1693,,,Não tinham,0.2
+1694,,Distrito Federal,Rede coletora,91.0
+1695,,,Fossa séptica,6.8
+1696,,,Fossa rudimentar,2.1
+1697,,,Vala,0.0
+1698,,,"Direto para rio, lago ou mar",0.0
+1699,,,Outro tipo,0.0
+1700,,,Não tinham,0.1
+1701,2014.0,Rondônia,Rede coletora,7.9
+1702,,,Fossa séptica,40.1
+1703,,,Fossa rudimentar,50.4
+1704,,,Vala,0.3
+1705,,,"Direto para rio, lago ou mar",0.3
+1706,,,Outro tipo,0.0
+1707,,,Não tinham,0.9
+1708,,Acre,Rede coletora,29.6
+1709,,,Fossa séptica,37.8
+1710,,,Fossa rudimentar,13.2
+1711,,,Vala,10.1
+1712,,,"Direto para rio, lago ou mar",3.4
+1713,,,Outro tipo,0.1
+1714,,,Não tinham,5.8
+1715,,Amazonas,Rede coletora,30.0
+1716,,,Fossa séptica,48.5
+1717,,,Fossa rudimentar,7.2
+1718,,,Vala,2.2
+1719,,,"Direto para rio, lago ou mar",9.4
+1720,,,Outro tipo,0.6
+1721,,,Não tinham,2.0
+1722,,Roraima,Rede coletora,21.3
+1723,,,Fossa séptica,72.7
+1724,,,Fossa rudimentar,5.0
+1725,,,Vala,0.2
+1726,,,"Direto para rio, lago ou mar",0.0
+1727,,,Outro tipo,0.0
+1728,,,Não tinham,0.8
+1729,,Pará,Rede coletora,6.9
+1730,,,Fossa séptica,52.4
+1731,,,Fossa rudimentar,36.0
+1732,,,Vala,1.4
+1733,,,"Direto para rio, lago ou mar",1.1
+1734,,,Outro tipo,0.2
+1735,,,Não tinham,2.0
+1736,,Amapá,Rede coletora,4.0
+1737,,,Fossa séptica,36.6
+1738,,,Fossa rudimentar,41.0
+1739,,,Vala,7.8
+1740,,,"Direto para rio, lago ou mar",8.7
+1741,,,Outro tipo,0.0
+1742,,,Não tinham,1.9
+1743,,Tocantins,Rede coletora,27.6
+1744,,,Fossa séptica,26.1
+1745,,,Fossa rudimentar,44.5
+1746,,,Vala,0.7
+1747,,,"Direto para rio, lago ou mar",0.1
+1748,,,Outro tipo,0.1
+1749,,,Não tinham,0.8
+1750,,Maranhão,Rede coletora,14.7
+1751,,,Fossa séptica,44.6
+1752,,,Fossa rudimentar,31.9
+1753,,,Vala,0.9
+1754,,,"Direto para rio, lago ou mar",0.6
+1755,,,Outro tipo,0.2
+1756,,,Não tinham,7.2
+1757,,Piauí,Rede coletora,5.8
+1758,,,Fossa séptica,88.8
+1759,,,Fossa rudimentar,1.6
+1760,,,Vala,0.0
+1761,,,"Direto para rio, lago ou mar",0.5
+1762,,,Outro tipo,0.0
+1763,,,Não tinham,3.1
+1764,,Ceará,Rede coletora,45.6
+1765,,,Fossa séptica,11.7
+1766,,,Fossa rudimentar,40.1
+1767,,,Vala,0.9
+1768,,,"Direto para rio, lago ou mar",0.5
+1769,,,Outro tipo,0.7
+1770,,,Não tinham,0.6
+1771,,Rio Grande do Norte,Rede coletora,27.5
+1772,,,Fossa séptica,47.5
+1773,,,Fossa rudimentar,23.9
+1774,,,Vala,0.2
+1775,,,"Direto para rio, lago ou mar",0.2
+1776,,,Outro tipo,0.1
+1777,,,Não tinham,0.5
+1778,,Paraíba,Rede coletora,62.5
+1779,,,Fossa séptica,21.3
+1780,,,Fossa rudimentar,13.4
+1781,,,Vala,1.6
+1782,,,"Direto para rio, lago ou mar",0.7
+1783,,,Outro tipo,0.0
+1784,,,Não tinham,0.6
+1785,,Pernambuco,Rede coletora,57.8
+1786,,,Fossa séptica,16.3
+1787,,,Fossa rudimentar,20.4
+1788,,,Vala,2.5
+1789,,,"Direto para rio, lago ou mar",2.0
+1790,,,Outro tipo,0.1
+1791,,,Não tinham,0.9
+1792,,Alagoas,Rede coletora,25.5
+1793,,,Fossa séptica,42.2
+1794,,,Fossa rudimentar,27.8
+1795,,,Vala,1.6
+1796,,,"Direto para rio, lago ou mar",1.8
+1797,,,Outro tipo,0.1
+1798,,,Não tinham,1.1
+1799,,Sergipe,Rede coletora,55.7
+1800,,,Fossa séptica,13.5
+1801,,,Fossa rudimentar,28.8
+1802,,,Vala,0.4
+1803,,,"Direto para rio, lago ou mar",1.0
+1804,,,Outro tipo,0.3
+1805,,,Não tinham,0.3
+1806,,Bahia,Rede coletora,66.7
+1807,,,Fossa séptica,12.3
+1808,,,Fossa rudimentar,17.5
+1809,,,Vala,1.0
+1810,,,"Direto para rio, lago ou mar",1.5
+1811,,,Outro tipo,0.1
+1812,,,Não tinham,1.0
+1813,,Minas Gerais,Rede coletora,89.8
+1814,,,Fossa séptica,2.2
+1815,,,Fossa rudimentar,5.9
+1816,,,Vala,0.2
+1817,,,"Direto para rio, lago ou mar",1.6
+1818,,,Outro tipo,0.1
+1819,,,Não tinham,0.2
+1820,,Espírito Santo,Rede coletora,85.7
+1821,,,Fossa séptica,7.1
+1822,,,Fossa rudimentar,2.1
+1823,,,Vala,1.8
+1824,,,"Direto para rio, lago ou mar",3.2
+1825,,,Outro tipo,0.0
+1826,,,Não tinham,0.0
+1827,,Rio de Janeiro,Rede coletora,84.1
+1828,,,Fossa séptica,8.5
+1829,,,Fossa rudimentar,1.6
+1830,,,Vala,3.3
+1831,,,"Direto para rio, lago ou mar",2.1
+1832,,,Outro tipo,0.1
+1833,,,Não tinham,0.3
+1834,,São Paulo,Rede coletora,92.4
+1835,,,Fossa séptica,4.2
+1836,,,Fossa rudimentar,1.9
+1837,,,Vala,0.3
+1838,,,"Direto para rio, lago ou mar",1.0
+1839,,,Outro tipo,0.1
+1840,,,Não tinham,0.1
+1841,,Paraná,Rede coletora,69.1
+1842,,,Fossa séptica,12.8
+1843,,,Fossa rudimentar,17.6
+1844,,,Vala,0.1
+1845,,,"Direto para rio, lago ou mar",0.2
+1846,,,Outro tipo,0.0
+1847,,,Não tinham,0.3
+1848,,Santa Catarina,Rede coletora,28.6
+1849,,,Fossa séptica,60.3
+1850,,,Fossa rudimentar,10.2
+1851,,,Vala,0.7
+1852,,,"Direto para rio, lago ou mar",0.1
+1853,,,Outro tipo,0.1
+1854,,,Não tinham,0.1
+1855,,Rio Grande do Sul,Rede coletora,38.5
+1856,,,Fossa séptica,49.9
+1857,,,Fossa rudimentar,8.5
+1858,,,Vala,1.7
+1859,,,"Direto para rio, lago ou mar",1.1
+1860,,,Outro tipo,0.1
+1861,,,Não tinham,0.3
+1862,,Mato Grosso do Sul,Rede coletora,33.0
+1863,,,Fossa séptica,7.9
+1864,,,Fossa rudimentar,58.8
+1865,,,Vala,0.0
+1866,,,"Direto para rio, lago ou mar",0.0
+1867,,,Outro tipo,0.0
+1868,,,Não tinham,0.3
+1869,,Mato Grosso,Rede coletora,26.6
+1870,,,Fossa séptica,23.2
+1871,,,Fossa rudimentar,49.5
+1872,,,Vala,0.0
+1873,,,"Direto para rio, lago ou mar",0.1
+1874,,,Outro tipo,0.1
+1875,,,Não tinham,0.4
+1876,,Goiás,Rede coletora,43.5
+1877,,,Fossa séptica,21.2
+1878,,,Fossa rudimentar,35.0
+1879,,,Vala,0.0
+1880,,,"Direto para rio, lago ou mar",0.1
+1881,,,Outro tipo,0.0
+1882,,,Não tinham,0.1
+1883,,Distrito Federal,Rede coletora,84.1
+1884,,,Fossa séptica,13.3
+1885,,,Fossa rudimentar,2.4
+1886,,,Vala,0.0
+1887,,,"Direto para rio, lago ou mar",0.0
+1888,,,Outro tipo,0.0
+1889,,,Não tinham,0.1
+1890,2015.0,Rondônia,Rede coletora,10.1
+1891,,,Fossa séptica,45.2
+1892,,,Fossa rudimentar,43.7
+1893,,,Vala,0.1
+1894,,,"Direto para rio, lago ou mar",0.3
+1895,,,Outro tipo,0.0
+1896,,,Não tinham,0.6
+1897,,Acre,Rede coletora,37.8
+1898,,,Fossa séptica,34.6
+1899,,,Fossa rudimentar,12.3
+1900,,,Vala,8.2
+1901,,,"Direto para rio, lago ou mar",2.8
+1902,,,Outro tipo,0.0
+1903,,,Não tinham,4.2
+1904,,Amazonas,Rede coletora,30.5
+1905,,,Fossa séptica,47.0
+1906,,,Fossa rudimentar,8.1
+1907,,,Vala,2.8
+1908,,,"Direto para rio, lago ou mar",9.0
+1909,,,Outro tipo,0.5
+1910,,,Não tinham,2.1
+1911,,Roraima,Rede coletora,31.7
+1912,,,Fossa séptica,66.9
+1913,,,Fossa rudimentar,0.5
+1914,,,Vala,0.1
+1915,,,"Direto para rio, lago ou mar",0.0
+1916,,,Outro tipo,0.7
+1917,,,Não tinham,0.1
+1918,,Pará,Rede coletora,6.4
+1919,,,Fossa séptica,67.9
+1920,,,Fossa rudimentar,21.1
+1921,,,Vala,2.3
+1922,,,"Direto para rio, lago ou mar",0.6
+1923,,,Outro tipo,0.1
+1924,,,Não tinham,1.6
+1925,,Amapá,Rede coletora,5.7
+1926,,,Fossa séptica,11.5
+1927,,,Fossa rudimentar,66.7
+1928,,,Vala,1.9
+1929,,,"Direto para rio, lago ou mar",11.1
+1930,,,Outro tipo,0.0
+1931,,,Não tinham,3.1
+1932,,Tocantins,Rede coletora,30.5
+1933,,,Fossa séptica,41.0
+1934,,,Fossa rudimentar,28.2
+1935,,,Vala,0.0
+1936,,,"Direto para rio, lago ou mar",0.1
+1937,,,Outro tipo,0.0
+1938,,,Não tinham,0.2
+1939,,Maranhão,Rede coletora,69.3
+1940,,,Fossa séptica,15.0
+1941,,,Fossa rudimentar,13.7
+1942,,,Vala,0.9
+1943,,,"Direto para rio, lago ou mar",0.5
+1944,,,Outro tipo,0.1
+1945,,,Não tinham,0.5
+1946,,Piauí,Rede coletora,21.8
+1947,,,Fossa séptica,48.9
+1948,,,Fossa rudimentar,17.9
+1949,,,Vala,2.4
+1950,,,"Direto para rio, lago ou mar",0.4
+1951,,,Outro tipo,0.2
+1952,,,Não tinham,8.5
+1953,,Ceará,Rede coletora,3.3
+1954,,,Fossa séptica,93.7
+1955,,,Fossa rudimentar,0.9
+1956,,,Vala,0.0
+1957,,,"Direto para rio, lago ou mar",0.2
+1958,,,Outro tipo,0.3
+1959,,,Não tinham,1.7
+1960,,Rio Grande do Norte,Rede coletora,43.8
+1961,,,Fossa séptica,20.0
+1962,,,Fossa rudimentar,33.9
+1963,,,Vala,0.7
+1964,,,"Direto para rio, lago ou mar",0.9
+1965,,,Outro tipo,0.0
+1966,,,Não tinham,0.7
+1967,,Paraíba,Rede coletora,28.4
+1968,,,Fossa séptica,40.5
+1969,,,Fossa rudimentar,30.0
+1970,,,Vala,0.6
+1971,,,"Direto para rio, lago ou mar",0.1
+1972,,,Outro tipo,0.0
+1973,,,Não tinham,0.4
+1974,,Pernambuco,Rede coletora,59.7
+1975,,,Fossa séptica,22.4
+1976,,,Fossa rudimentar,15.3
+1977,,,Vala,1.8
+1978,,,"Direto para rio, lago ou mar",0.1
+1979,,,Outro tipo,0.1
+1980,,,Não tinham,0.5
+1981,,Alagoas,Rede coletora,55.8
+1982,,,Fossa séptica,21.9
+1983,,,Fossa rudimentar,15.7
+1984,,,Vala,2.9
+1985,,,"Direto para rio, lago ou mar",2.9
+1986,,,Outro tipo,0.1
+1987,,,Não tinham,0.6
+1988,,Sergipe,Rede coletora,26.4
+1989,,,Fossa séptica,36.3
+1990,,,Fossa rudimentar,32.0
+1991,,,Vala,4.5
+1992,,,"Direto para rio, lago ou mar",0.3
+1993,,,Outro tipo,0.0
+1994,,,Não tinham,0.5
+1995,,Bahia,Rede coletora,53.4
+1996,,,Fossa séptica,28.2
+1997,,,Fossa rudimentar,17.1
+1998,,,Vala,0.7
+1999,,,"Direto para rio, lago ou mar",0.5
+2000,,,Outro tipo,0.0
+2001,,,Não tinham,0.1
+2002,,Minas Gerais,Rede coletora,89.2
+2003,,,Fossa séptica,2.9
+2004,,,Fossa rudimentar,5.3
+2005,,,Vala,0.2
+2006,,,"Direto para rio, lago ou mar",2.2
+2007,,,Outro tipo,0.0
+2008,,,Não tinham,0.2
+2009,,Espírito Santo,Rede coletora,87.6
+2010,,,Fossa séptica,4.9
+2011,,,Fossa rudimentar,2.1
+2012,,,Vala,1.1
+2013,,,"Direto para rio, lago ou mar",3.8
+2014,,,Outro tipo,0.1
+2015,,,Não tinham,0.3
+2016,,Rio de Janeiro,Rede coletora,82.6
+2017,,,Fossa séptica,12.1
+2018,,,Fossa rudimentar,1.4
+2019,,,Vala,1.8
+2020,,,"Direto para rio, lago ou mar",1.7
+2021,,,Outro tipo,0.1
+2022,,,Não tinham,0.2
+2023,,São Paulo,Rede coletora,93.9
+2024,,,Fossa séptica,3.7
+2025,,,Fossa rudimentar,1.1
+2026,,,Vala,0.2
+2027,,,"Direto para rio, lago ou mar",0.9
+2028,,,Outro tipo,0.0
+2029,,,Não tinham,0.1
+2030,,Paraná,Rede coletora,72.5
+2031,,,Fossa séptica,16.4
+2032,,,Fossa rudimentar,10.5
+2033,,,Vala,0.2
+2034,,,"Direto para rio, lago ou mar",0.2
+2035,,,Outro tipo,0.0
+2036,,,Não tinham,0.2
+2037,,Santa Catarina,Rede coletora,42.8
+2038,,,Fossa séptica,50.6
+2039,,,Fossa rudimentar,5.7
+2040,,,Vala,0.3
+2041,,,"Direto para rio, lago ou mar",0.4
+2042,,,Outro tipo,0.1
+2043,,,Não tinham,0.2
+2044,,Rio Grande do Sul,Rede coletora,45.0
+2045,,,Fossa séptica,47.8
+2046,,,Fossa rudimentar,4.7
+2047,,,Vala,1.2
+2048,,,"Direto para rio, lago ou mar",1.0
+2049,,,Outro tipo,0.1
+2050,,,Não tinham,0.2
+2051,,Mato Grosso do Sul,Rede coletora,42.5
+2052,,,Fossa séptica,10.7
+2053,,,Fossa rudimentar,46.6
+2054,,,Vala,0.0
+2055,,,"Direto para rio, lago ou mar",0.0
+2056,,,Outro tipo,0.0
+2057,,,Não tinham,0.2
+2058,,Mato Grosso,Rede coletora,25.5
+2059,,,Fossa séptica,35.1
+2060,,,Fossa rudimentar,38.8
+2061,,,Vala,0.2
+2062,,,"Direto para rio, lago ou mar",0.1
+2063,,,Outro tipo,0.0
+2064,,,Não tinham,0.3
+2065,,Goiás,Rede coletora,48.5
+2066,,,Fossa séptica,32.7
+2067,,,Fossa rudimentar,18.6
+2068,,,Vala,0.0
+2069,,,"Direto para rio, lago ou mar",0.0
+2070,,,Outro tipo,0.0
+2071,,,Não tinham,0.1
+2072,,Distrito Federal,Rede coletora,87.4
+2073,,,Fossa séptica,9.7
+2074,,,Fossa rudimentar,2.8
+2075,,,Vala,0.0
+2076,,,"Direto para rio, lago ou mar",0.0
+2077,,,Outro tipo,0.0
+2078,,,Não tinham,0.1
