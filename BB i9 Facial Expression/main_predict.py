@@ -5,14 +5,13 @@ from keras.models import load_model
 # Detector de face
 face_cascade = cv2.CascadeClassifier('DADOS/haarcascades/haarcascade_frontalface_default.xml')
 
-img_para_teste = imagem = cv2.imread('DADOS/s018/bmp/s018-04_img.bmp')
+img_para_teste = imagem = cv2.imread('DADOS/s018/bmp/s018-04_img.bmp') # carregar a imagem na URL informada
 class ExpressaoFacial:
     def __init__(self, imagem_carregada):
         self.imagem_carregada = imagem_carregada 
     
 
-    def detectar_roi(self, url_da_imagem):
-        imagem = cv2.imread(url_da_imagem) # carregar a imagem na URL informada
+    def detectar_roi(self, imagem):
         face_img = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY) # converte a imagem de BGR (padrão OCV) para tons de cinza
         face = face_cascade.detectMultiScale(face_img)
         # canto inferior esquerdo
