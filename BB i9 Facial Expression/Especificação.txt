@@ -1,0 +1,3 @@
+https://github.com/experimenteBB/desafioBBCpuAfetiva
+
+Você deverá criar um script chamado main_predict.py. Neste script, deve haver uma função main() que receberá uma imagem como parâmetro e retornará um número correspondente a emoção da face presente na imagem, senda elas: 0-neutra; 1-feliz; 2-triste; 3-surpreso; e 4-bravo
