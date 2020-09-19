@@ -26,3 +26,4 @@ Brief description of the projects:
           challenge of the Data Science Academy Artificial Intelligence teaching platform for data visualization
    * _dsa-201906_:
           challenge of the Data Science Academy Artificial Intelligence teaching platform for ranking (Predicting Loyalty Index)
+   * _nlpAppBancos_: presents an exploratory analysis of data on a sample of 8,200 user reviews on apps from Brazilian banks and creates two classifiers. There is an application on Streamlit as well.
