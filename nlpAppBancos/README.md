@@ -1,7 +1,7 @@
-!(ampulheta_infinita.png)
+(ampulheta_infinita.png)
 
 ## Classificador de Resenhas
-**=========================**
+
 
 A forma como foram obtidas as resenhas e explicação sobre como foram construídos os classificadores, estão explicados [aqui](https://www.kaggle.com/jangelojr/appsbancosbrasileiros).
 
