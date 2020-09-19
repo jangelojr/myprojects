@@ -1,5 +1,3 @@
-(ampulheta_infinita.png)
-
 ## Classificador de Resenhas
 
 
